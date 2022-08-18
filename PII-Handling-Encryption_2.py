@@ -7,7 +7,3 @@ for i in colList:
 # COMMAND ----------
 
 display(dfDecrypted)
-
-# COMMAND ----------
-
-print("Adding Updates ByPassing PR Approvals In New Updates to the Notebook Code")
